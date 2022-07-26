@@ -69,7 +69,7 @@ select {
 }
 </style>
 </head>
-<body>
+<body>aaaa
 <form name="frm" method="post" action="ShopServlet?command=mtm">
 	<div id="big">
 		<div id="small">
